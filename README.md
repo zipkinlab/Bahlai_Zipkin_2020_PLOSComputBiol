@@ -1,6 +1,6 @@
 # [The Dynamic Shift Detector: An algorithm to identify changes in parameter values governing populations](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007542)
 
-### Christie A. Bahlai [@cbahlai](https://github.com/cbahlai) and Elise F. Zipkin [@ezipkin](https://github.com/ezipkin)
+### Christie A. Bahlai and Elise F. Zipkin
 
 ### PLOS Computational Biology
 
